@@ -1,1 +1,1 @@
-Hello, this is new World!
+Hello, World! Version 7
